@@ -14,12 +14,12 @@ export default function Footer() {
             <div className="flex items-center mb-4">
               <Image
                 src="/placeholder.svg?height=50&width=50"
-                alt="Nitya Physiocare Logo"
+                alt="RehabNest Physiocare Logo"
                 width={50}
                 height={50}
                 className="mr-3"
               />
-              <h3 className="text-xl font-bold">NITYA PHYSIOCARE</h3>
+              <h3 className="text-xl font-bold">RehabNest PHYSIOCARE</h3>
             </div>
             <p className="text-gray-400 mb-4">
               Professional physiotherapy services delivered with care and expertise. We're committed to helping you
@@ -128,8 +128,8 @@ export default function Footer() {
               </li>
               <li className="flex items-start">
                 <Mail size={20} className="mr-3 mt-1 text-purple-500" />
-                <a href="mailto:info@nityaphysiocare.com" className="text-gray-400 hover:text-white transition-colors">
-                  info@nityaphysiocare.com
+                <a href="mailto:info@rehabnestphysio.com" className="text-gray-400 hover:text-white transition-colors">
+                  info@rehabnestphysio.com
                 </a>
               </li>
             </ul>
@@ -139,7 +139,7 @@ export default function Footer() {
         <div className="border-t border-gray-700 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              &copy; {new Date().getFullYear()} Nitya Physiocare. All rights reserved.
+              &copy; {new Date().getFullYear()} RehabNest Physiocare. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <Link href="#" className="text-gray-400 hover:text-white transition-colors text-sm">

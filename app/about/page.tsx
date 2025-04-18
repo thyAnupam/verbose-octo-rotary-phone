@@ -163,18 +163,17 @@ export default function AboutPage() {
                 <div className="h-64 relative">
                   <Image
                     src="/placeholder.svg?height=300&width=300"
-                    alt="Dr. Nitya Sharma"
+                    alt="Dr. Nalini P"
                     fill
                     className="object-cover"
                   />
                 </div>
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-gray-800 mb-1">Dr. Nitya Sharma</h3>
+                  <h3 className="text-xl font-bold text-gray-800 mb-1">Dr. Nalini P.</h3>
                   <p className="text-purple-500 font-medium mb-4">Founder & Senior Physiotherapist</p>
                   <p className="text-gray-600 mb-4">
-                    With over 15 years of experience, Dr. Sharma specializes in orthopedic rehabilitation and
-                    neurological conditions. She holds a Doctorate in Physical Therapy and multiple certifications in
-                    specialized treatment techniques.
+                    With over 5+ years of experience, Dr. Nalini specializes in orthopedic rehabilitation and
+                    neurological conditions.
                   </p>
                 </div>
               </div>
@@ -230,9 +229,9 @@ export default function AboutPage() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
                 <div className="text-purple-500 font-medium mb-2">WHY CHOOSE US</div>
-                <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">The Nitya Physiocare Difference</h2>
+                <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">The RehabNest Physiocare Difference</h2>
                 <p className="text-gray-600 mb-6">
-                  At Nitya Physiocare, we go beyond standard physiotherapy practices to provide a truly exceptional
+                  At RehabNest Physiocare, we go beyond standard physiotherapy practices to provide a truly exceptional
                   experience for our patients. Here's what sets us apart:
                 </p>
 

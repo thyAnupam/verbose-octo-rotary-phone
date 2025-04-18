@@ -7,28 +7,28 @@ import Image from "next/image"
 const testimonials = [
   {
     id: 1,
-    text: "After my knee surgery, I was struggling with mobility. The home physiotherapy services from Nitya Physiocare were a game-changer. Their therapist was professional, knowledgeable, and genuinely cared about my recovery. I'm now back to my normal activities, pain-free!",
+    text: "After my knee surgery, I was struggling with mobility. The home physiotherapy services from RehabNest Physiocare were a game-changer. Their therapist was professional, knowledgeable, and genuinely cared about my recovery. I'm now back to my normal activities, pain-free!",
     name: "Rajesh Kumar",
     role: "Knee Rehabilitation Patient",
     rating: 5,
   },
   {
     id: 2,
-    text: "My elderly mother needed physiotherapy after her stroke, but taking her to a clinic was challenging. Nitya Physiocare's home service was a blessing. The therapist was patient, gentle, and effective. We've seen remarkable improvement in her mobility and strength.",
+    text: "My elderly mother needed physiotherapy after her stroke, but taking her to a clinic was challenging. RehabNest Physiocare's home service was a blessing. The therapist was patient, gentle, and effective. We've seen remarkable improvement in her mobility and strength.",
     name: "Priya Sharma",
     role: "Caregiver for Stroke Patient",
     rating: 5,
   },
   {
     id: 3,
-    text: "As a professional athlete, I needed specialized care for my sports injury. The team at Nitya Physiocare understood my needs and designed a rehabilitation program that got me back to training quickly and safely. Their expertise in sports injuries is exceptional.",
+    text: "As a professional athlete, I needed specialized care for my sports injury. The team at RehabNest Physiocare understood my needs and designed a rehabilitation program that got me back to training quickly and safely. Their expertise in sports injuries is exceptional.",
     name: "Arjun Mehta",
     role: "Professional Athlete",
     rating: 5,
   },
   {
     id: 4,
-    text: "I've been dealing with chronic back pain for years. After just a few sessions with Nitya Physiocare, I experienced significant relief. Their holistic approach addressed not just my symptoms but also the root causes of my pain. Highly recommended!",
+    text: "I've been dealing with chronic back pain for years. After just a few sessions with RehabNest Physiocare, I experienced significant relief. Their holistic approach addressed not just my symptoms but also the root causes of my pain. Highly recommended!",
     name: "Sunita Patel",
     role: "Chronic Pain Patient",
     rating: 5,
@@ -42,14 +42,14 @@ const testimonials = [
   },
   {
     id: 6,
-    text: "After my car accident, I needed extensive rehabilitation. Nitya Physiocare created a comprehensive recovery plan that addressed all my injuries. Their attention to detail and personalized approach made all the difference in my recovery journey.",
+    text: "After my car accident, I needed extensive rehabilitation. RehabNest Physiocare created a comprehensive recovery plan that addressed all my injuries. Their attention to detail and personalized approach made all the difference in my recovery journey.",
     name: "Ananya Desai",
     role: "Accident Rehabilitation Patient",
     rating: 5,
   },
   {
     id: 7,
-    text: "As someone with multiple sclerosis, finding the right physiotherapy is crucial. The team at Nitya Physiocare has extensive knowledge about neurological conditions. Their specialized exercises have helped maintain my mobility and independence.",
+    text: "As someone with multiple sclerosis, finding the right physiotherapy is crucial. The team at RehabNest Physiocare has extensive knowledge about neurological conditions. Their specialized exercises have helped maintain my mobility and independence.",
     name: "Rahul Verma",
     role: "Multiple Sclerosis Patient",
     rating: 5,
@@ -63,7 +63,7 @@ const testimonials = [
   },
   {
     id: 9,
-    text: "I was skeptical about physiotherapy for my frozen shoulder, having tried various treatments without success. Nitya Physiocare proved me wrong! Their targeted approach and manual therapy techniques have restored my range of motion.",
+    text: "I was skeptical about physiotherapy for my frozen shoulder, having tried various treatments without success. RehabNest Physiocare proved me wrong! Their targeted approach and manual therapy techniques have restored my range of motion.",
     name: "Sanjay Gupta",
     role: "Shoulder Rehabilitation Patient",
     rating: 5,
@@ -77,7 +77,7 @@ const testimonials = [
   },
   {
     id: 11,
-    text: "Working from home caused severe neck and back issues for me. The ergonomic assessment and targeted therapy from Nitya Physiocare not only relieved my pain but also taught me how to prevent future problems with proper workspace setup.",
+    text: "Working from home caused severe neck and back issues for me. The ergonomic assessment and targeted therapy from RehabNest Physiocare not only relieved my pain but also taught me how to prevent future problems with proper workspace setup.",
     name: "Karthik Nair",
     role: "Work-From-Home Professional",
     rating: 5,
@@ -91,7 +91,7 @@ const testimonials = [
   },
   {
     id: 13,
-    text: "After my hip replacement surgery, I was anxious about recovery. The physiotherapist from Nitya Physiocare was incredibly knowledgeable about post-surgical protocols and guided me through each stage of rehabilitation with confidence.",
+    text: "After my hip replacement surgery, I was anxious about recovery. The physiotherapist from RehabNest Physiocare was incredibly knowledgeable about post-surgical protocols and guided me through each stage of rehabilitation with confidence.",
     name: "Lakshmi Rao",
     role: "Post-Surgical Rehabilitation Patient",
     rating: 5,
@@ -105,7 +105,7 @@ const testimonials = [
   },
   {
     id: 15,
-    text: "As a marathon runner, preventing injuries is as important as treating them. The sports physiotherapy team at Nitya Physiocare has been instrumental in keeping me injury-free with their preventative approach and running gait analysis.",
+    text: "As a marathon runner, preventing injuries is as important as treating them. The sports physiotherapy team at RehabNest Physiocare has been instrumental in keeping me injury-free with their preventative approach and running gait analysis.",
     name: "Neha Joshi",
     role: "Marathon Runner",
     rating: 5,
@@ -119,7 +119,7 @@ const testimonials = [
   },
   {
     id: 17,
-    text: "My child with cerebral palsy has shown remarkable progress with Nitya Physiocare's pediatric neurodevelopmental therapy. The therapist is not only skilled but also connects wonderfully with my child, making the sessions enjoyable.",
+    text: "My child with cerebral palsy has shown remarkable progress with RehabNest Physiocare's pediatric neurodevelopmental therapy. The therapist is not only skilled but also connects wonderfully with my child, making the sessions enjoyable.",
     name: "Suresh Menon",
     role: "Parent of Child with Cerebral Palsy",
     rating: 5,

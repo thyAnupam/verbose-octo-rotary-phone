@@ -76,7 +76,7 @@ export default function ContactPage() {
                         href="mailto:info@rehabnestphysio.com"
                         className="text-gray-600 hover:text-purple-500 transition-colors"
                       >
-                        info@nityaphysiocare.com
+                        info@rehabnestphysio.com
                       </a>
                     </div>
                   </div>
