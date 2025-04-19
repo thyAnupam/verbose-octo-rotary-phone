@@ -84,7 +84,14 @@ export function HeroSlideshow() {
                   className="bg-purple-500 text-white px-6 py-3 rounded-full hover:bg-purple-600 transition-colors flex items-center gap-2"
                 >
                   Book Appointment
-                  <i className="fab fa-whatsapp text-xl"></i>
+                  <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="w-5 h-5 text-green-500"
+                        fill="currentColor"
+                        viewBox="0 0 448 512"
+                    >
+                      <path d="M380.9 97.1C339-5.3 213.2-33.1 125.2 35.2c-55.4 44.2-80 118.3-58.2 187.4L24.3 438l220.6-59.7c67.6 18.7 140.1-1.6 187.4-58.2 60.7-75.7 33-197.2-51.4-223zm-77 283c-23.6 0-46.9-6.6-67-18.8l-13.2-7.9-78.7 21.3 21.3-78.7-7.9-13.2c-25.3-41.9-21.2-95.4 10-132.7 39.8-46.9 108.6-53.7 157.6-14.5 25.6 20.3 41.7 50.3 44.5 83.2 3.2 36.4-10.8 71.6-38.8 96.1-14.6 12.9-32.2 20.3-51.8 20.3z" />
+                    </svg>
                 </Link>
                 <div className="flex items-center">
                   <div className="mr-4">
