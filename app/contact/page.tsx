@@ -57,12 +57,7 @@ export default function ContactPage() {
                       >
                         +91 8431185513
                       </a>
-                      <a
-                        href="tel:+919834691701"
-                        className="text-gray-600 hover:text-purple-500 transition-colors block"
-                      >
-                        +91 9834691701
-                      </a>
+
                     </div>
                   </div>
 
@@ -87,7 +82,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-bold text-gray-800 mb-1">Location</h3>
-                      <p className="text-gray-600">Bengaluru, Karnataka, India</p>
+                      <p className="text-gray-600">Bengaluru, KA, India</p>
                       <p className="text-gray-600 mt-1">We provide home visit services throughout Bengaluru.</p>
                     </div>
                   </div>

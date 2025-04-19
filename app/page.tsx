@@ -171,7 +171,7 @@ export default function Home() {
               <div className="relative h-[500px]">
                 <Image
                   src="/placeholder.svg?height=500&width=600"
-                  alt="About RehabNest Physiocare"
+                  alt="About RehabNest Physio"
                   fill
                   className="object-cover rounded-lg shadow-xl"
                 />
@@ -180,7 +180,7 @@ export default function Home() {
                 <div className="text-purple-500 font-medium mb-2">ABOUT US</div>
                 <h2 className="text-4xl font-bold text-gray-800 mb-6">Dedicated to Your Recovery and Well-being</h2>
                 <p className="text-gray-600 mb-6">
-                  At RehabNest Physiocare, we are committed to providing exceptional physiotherapy services that focus on
+                  At RehabNest Physio, we are committed to providing exceptional physiotherapy services that focus on
                   your individual needs. Our team of highly qualified and experienced physiotherapists is dedicated to
                   helping you achieve optimal physical health and well-being.
                 </p>
@@ -314,10 +314,11 @@ export default function Home() {
                     Call: +91 8431185513
                   </a>
                   <a
-                    href="https://api.whatsapp.com/send?phone=+918431185513&text=Hello%20RehabNest%20Physiocare"
+                    href="https://api.whatsapp.com/send?phone=918431185513&text=Hello%20RehabNest%20Physio"
                     className="text-purple-600 px-6 py-3 rounded-full hover:bg-gray-100 transition-colors"
                   >
                     WhatsApp
+                    <i className="fab fa-whatsapp text-xl"></i>
                   </a>
                 </div>
                 <p className="text-lg">

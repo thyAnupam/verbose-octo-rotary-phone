@@ -39,7 +39,7 @@ export default function ServicesPage() {
               <h2 className="text-3xl md:text-4xl font-bold text-gray-800">Comprehensive Physiotherapy Services</h2>
               <div className="w-24 h-1 bg-purple-500 mx-auto mt-4 mb-8"></div>
               <p className="text-gray-600 max-w-3xl mx-auto">
-                At RehabNest Physiocare, we provide a wide range of physiotherapy services designed to address various
+                At RehabNest Physio, we provide a wide range of physiotherapy services designed to address various
                 conditions and help you achieve optimal physical health. Our expert therapists use evidence-based
                 techniques and personalized approaches to ensure the best outcomes for each patient.
               </p>

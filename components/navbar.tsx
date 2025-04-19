@@ -32,14 +32,14 @@ export default function Navbar() {
           <Link href="/">
             <Image
               src="/rehabnest-logo.jpg?height=50&width=50"
-              alt="RehabNest Physiocare Logo"
+              alt="RehabNest Physio Logo"
               width={50}
               height={50}
               className="mr-3"
             />
           </Link>
           <Link href="/">
-            <h1 className="text-2xl font-bold text-gray-800">REHABNEST PHYSIO</h1>
+            <h1 className="text-xl font-bold text-gray-800">REHABNEST PHYSIO</h1>
           </Link>
         </div>
 

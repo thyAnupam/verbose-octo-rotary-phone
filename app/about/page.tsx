@@ -22,7 +22,7 @@ export default function AboutPage() {
           </div>
           <div className="container mx-auto px-6 relative z-10">
             <div className="max-w-3xl mx-auto text-center">
-              <h1 className="text-4xl md:text-5xl font-bold mb-6">About RehabNest Physiocare</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-6">About RehabNest Physio</h1>
               <div className="w-24 h-1 bg-purple-500 mx-auto mb-8"></div>
               <p className="text-xl">
                 Dedicated to providing exceptional physiotherapy services with a personalized approach to help you
@@ -40,7 +40,7 @@ export default function AboutPage() {
                 <div className="text-purple-500 font-medium mb-2">OUR STORY</div>
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">A Journey of Healing and Care</h2>
                 <p className="text-gray-600 mb-6">
-                  RehabNest Physiocare was founded in 2019 with a simple yet powerful mission: to provide accessible,
+                  RehabNest Physio was founded in 2019 with a simple yet powerful mission: to provide accessible,
                   high-quality physiotherapy services that truly make a difference in people's lives. What began as a
                   small practice has grown into a trusted name in physiotherapy across Bengaluru.
                 </p>
@@ -51,7 +51,7 @@ export default function AboutPage() {
                   barriers to rehabilitation and recovery.
                 </p>
                 <p className="text-gray-600">
-                  Today, RehabNest Physiocare comprises a team of dedicated professionals who share the same passion for
+                  Today, RehabNest Physio comprises a team of dedicated professionals who share the same passion for
                   patient care and rehabilitation excellence. We continue to grow and evolve, but our core values of
                   compassion, expertise, and personalized care remain unchanged.
                 </p>
@@ -229,9 +229,9 @@ export default function AboutPage() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
                 <div className="text-purple-500 font-medium mb-2">WHY CHOOSE US</div>
-                <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">The RehabNest Physiocare Difference</h2>
+                <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">The RehabNest Physio Difference</h2>
                 <p className="text-gray-600 mb-6">
-                  At RehabNest Physiocare, we go beyond standard physiotherapy practices to provide a truly exceptional
+                  At RehabNest Physio, we go beyond standard physiotherapy practices to provide a truly exceptional
                   experience for our patients. Here's what sets us apart:
                 </p>
 

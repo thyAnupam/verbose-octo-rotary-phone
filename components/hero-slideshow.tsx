@@ -80,10 +80,11 @@ export function HeroSlideshow() {
               <p className="text-xl mb-8 hidden md:block">{slide.description}</p>
               <div className="flex flex-wrap gap-4">
                 <Link
-                  href="#appointment"
+                  href="https://api.whatsapp.com/send?phone=918431185513&text=Hello%20RehabNest%20Physio"
                   className="bg-purple-500 text-white px-6 py-3 rounded-full hover:bg-purple-600 transition-colors flex items-center gap-2"
                 >
                   Book Appointment
+                  <i className="fab fa-whatsapp text-xl"></i>
                 </Link>
                 <div className="flex items-center">
                   <div className="mr-4">
