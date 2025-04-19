@@ -52,10 +52,10 @@ export default function ContactPage() {
                     <div>
                       <h3 className="font-bold text-gray-800 mb-1">Phone</h3>
                       <a
-                        href="tel:+917483023316"
+                        href="tel:+918431185513"
                         className="text-gray-600 hover:text-purple-500 transition-colors block"
                       >
-                        +91 7483023316
+                        +91 8431185513
                       </a>
                       <a
                         href="tel:+919834691701"
@@ -275,7 +275,7 @@ export default function ContactPage() {
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <a
-                href="tel:+917483023316"
+                href="tel:+918431185513"
                 className="bg-white text-purple-500 px-8 py-3 rounded-full hover:bg-gray-100 transition-colors font-medium flex items-center gap-2"
               >
                 <Phone size={20} /> Call Now

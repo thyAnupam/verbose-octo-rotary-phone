@@ -31,7 +31,7 @@ export default function Navbar() {
         <div className="flex items-center">
           <Link href="/">
             <Image
-              src="/placeholder.svg?height=50&width=50"
+              src="/rehabnest-logo.jpg?height=50&width=50"
               alt="RehabNest Physiocare Logo"
               width={50}
               height={50}

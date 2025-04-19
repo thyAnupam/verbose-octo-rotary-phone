@@ -89,10 +89,10 @@ export function HeroSlideshow() {
                   <div className="mr-4">
                     <div className="text-lg font-bold">Call or WhatsApp on</div>
                     <a
-                      href="tel:+917483023316"
+                      href="tel:+918431185513"
                       className="text-2xl md:text-3xl font-bold hover:text-purple-400 transition-colors"
                     >
-                      7483023316
+                      8431185513
                     </a>
                   </div>
                 </div>

@@ -308,13 +308,13 @@ export default function Home() {
                 </p>
                 <div className="bg-white p-1 inline-flex rounded-full mb-8">
                   <a
-                    href="tel:+917483023316"
+                    href="tel:+918431185513"
                     className="bg-purple-600 text-white px-6 py-3 rounded-full hover:bg-purple-700 transition-colors"
                   >
-                    Call: +91 7483023316
+                    Call: +91 8431185513
                   </a>
                   <a
-                    href="https://wa.me/917483023316"
+                    href="https://api.whatsapp.com/send?phone=+918431185513&text=Hello%20RehabNest%20Physiocare"
                     className="text-purple-600 px-6 py-3 rounded-full hover:bg-gray-100 transition-colors"
                   >
                     WhatsApp
@@ -407,7 +407,7 @@ export default function Home() {
 
       {/* Floating Call Button */}
       <a
-        href="tel:+917483023316"
+        href="tel:+918431185513"
         className="fixed bottom-24 right-6 bg-darkblue-500 text-white p-3 rounded-full shadow-lg hover:bg-darkblue-600 transition-colors z-50"
         aria-label="Call us"
       >

@@ -13,7 +13,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center mb-4">
               <Image
-                src="/placeholder.svg?height=50&width=50"
+                src="/rehabnest-logo.jpg?height=50&width=50"
                 alt="RehabNest Physiocare Logo"
                 width={50}
                 height={50}
@@ -113,13 +113,15 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <MapPin size={20} className="mr-3 mt-1 text-purple-500" />
-                <span className="text-gray-400">Bengaluru, Karnataka, India</span>
+                <span className="text-gray-400">Mahaveer Rd, Akshaynagar, Hulimavu, Bengaluru, Karnataka 560076 India</span>
+                <span className="text-gray-400">15th Main Rd, Harlur, Eastwood Twp, Bengaluru, Karnataka 560103 India</span>
+
               </li>
               <li className="flex items-start">
                 <Phone size={20} className="mr-3 mt-1 text-purple-500" />
                 <div>
-                  <a href="tel:+917483023316" className="text-gray-400 hover:text-white transition-colors block">
-                    +91 7483023316
+                  <a href="tel:+918431185513" className="text-gray-400 hover:text-white transition-colors block">
+                    +91 8431185513
                   </a>
                   <a href="tel:+919834691701" className="text-gray-400 hover:text-white transition-colors block">
                     +91 9834691701
