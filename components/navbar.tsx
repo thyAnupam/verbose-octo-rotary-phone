@@ -39,7 +39,7 @@ export default function Navbar() {
             />
           </Link>
           <Link href="/">
-            <h1 className="text-2xl font-bold text-gray-800">REHANEST PHYSIO</h1>
+            <h1 className="text-2xl font-bold text-gray-800">REHABNEST PHYSIO</h1>
           </Link>
         </div>
 
