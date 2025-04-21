@@ -149,79 +149,7 @@ export default function AboutPage() {
         </section>
 
         {/* Our Team Section */}
-        <section className="py-20 bg-white">
-          <div className="container mx-auto px-6">
-            <div className="text-center mb-16">
-              <div className="text-purple-500 font-medium mb-2">OUR TEAM</div>
-              <h2 className="text-3xl md:text-4xl font-bold text-gray-800">Meet Our Experts</h2>
-              <div className="w-24 h-1 bg-purple-500 mx-auto mt-4"></div>
-            </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {/* Team Member 1 */}
-              <div className="bg-white rounded-lg shadow-md overflow-hidden">
-                <div className="h-64 relative">
-                  <Image
-                    src="/placeholder.svg?height=300&width=300"
-                    alt="Dr. Nalini P"
-                    fill
-                    className="object-cover"
-                  />
-                </div>
-                <div className="p-6">
-                  <h3 className="text-xl font-bold text-gray-800 mb-1">Dr. Nalini P.</h3>
-                  <p className="text-purple-500 font-medium mb-4">Founder & Senior Physiotherapist</p>
-                  <p className="text-gray-600 mb-4">
-                    With over 5+ years of experience, Dr. Nalini specializes in orthopedic rehabilitation and
-                    neurological conditions.
-                  </p>
-                </div>
-              </div>
-
-              {/* Team Member 2 */}
-              <div className="bg-white rounded-lg shadow-md overflow-hidden">
-                <div className="h-64 relative">
-                  <Image
-                    src="/placeholder.svg?height=300&width=300"
-                    alt="Dr. Arjun Mehta"
-                    fill
-                    className="object-cover"
-                  />
-                </div>
-                <div className="p-6">
-                  <h3 className="text-xl font-bold text-gray-800 mb-1">Dr. Arjun Mehta</h3>
-                  <p className="text-purple-500 font-medium mb-4">Sports Rehabilitation Specialist</p>
-                  <p className="text-gray-600 mb-4">
-                    Dr. Mehta brings 10 years of experience working with athletes at all levels. He specializes in
-                    sports injury prevention and rehabilitation, with expertise in functional movement assessment and
-                    performance enhancement.
-                  </p>
-                </div>
-              </div>
-
-              {/* Team Member 3 */}
-              <div className="bg-white rounded-lg shadow-md overflow-hidden">
-                <div className="h-64 relative">
-                  <Image
-                    src="/placeholder.svg?height=300&width=300"
-                    alt="Dr. Priya Patel"
-                    fill
-                    className="object-cover"
-                  />
-                </div>
-                <div className="p-6">
-                  <h3 className="text-xl font-bold text-gray-800 mb-1">Dr. Priya Patel</h3>
-                  <p className="text-purple-500 font-medium mb-4">Neurological Rehabilitation Expert</p>
-                  <p className="text-gray-600 mb-4">
-                    Specializing in neurological rehabilitation, Dr. Patel has extensive experience treating stroke
-                    recovery, Parkinson's disease, and other neurological conditions. Her patient-centered approach has
-                    helped countless individuals regain function and independence.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
 
         {/* Why Choose Us Section */}
         <section className="py-20 bg-gray-50">
