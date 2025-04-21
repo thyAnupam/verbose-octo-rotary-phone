@@ -12,7 +12,7 @@ const slides = [
     title: "Your Journey To Pain-Free Living Begins Now!",
     description:
       "Experience the convenience of personalized care in the comfort of your own home with our professional home physiotherapy services.",
-    image: "/placeholder.svg?height=600&width=1600",
+    image: "/slide1.png?height=600&width=1600",
     alt: "Home physiotherapy session",
   },
   {
