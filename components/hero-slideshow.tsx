@@ -30,7 +30,7 @@ const slides = [
     title: "Precision Therapy for Powerful Recovery.",
     description:
       "Advanced rehabilitation techniques to help you recover from injuries, surgeries, and chronic conditions with lasting results.",
-    image: "/home.jpg?height=600&width=1600",
+    image: "/slide31.jpg?height=600&width=1600",
     alt: "Rehabilitation session",
   },
 ]
