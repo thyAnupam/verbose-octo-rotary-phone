@@ -9,7 +9,7 @@ const slides = [
   {
     id: 1,
     badge: "HOME VISIT",
-    title: "Your Journey To Pain-Free Living Begins Now!",
+    title: "Movement Is Life — Let’s Keep You Moving!",
     description:
       "Experience the convenience of personalized care in the comfort of your own home with our professional home physiotherapy services.",
     image: "/slide1.png?height=600&width=1600",
@@ -21,16 +21,16 @@ const slides = [
     title: "Specialized Physiotherapy For All Your Needs",
     description:
       "Our team of experienced physiotherapists provides personalized treatment plans to help you recover faster and live better.",
-    image: "/placeholder.svg?height=600&width=1600",
+    image: "/slide2.jpg?height=600&width=1600",
     alt: "Physiotherapist with patient",
   },
   {
     id: 3,
     badge: "REHABILITATION",
-    title: "Regain Your Strength And Mobility",
+    title: "Precision Therapy for Powerful Recovery.",
     description:
       "Advanced rehabilitation techniques to help you recover from injuries, surgeries, and chronic conditions with lasting results.",
-    image: "/placeholder.svg?height=600&width=1600",
+    image: "/slide3.jpg?height=600&width=1600",
     alt: "Rehabilitation session",
   },
 ]
