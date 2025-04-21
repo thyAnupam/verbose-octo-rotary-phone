@@ -8,15 +8,6 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 const slides = [
   {
     id: 1,
-    badge: "HOME VISIT",
-    title: "Movement Is Life — Let’s Keep You Moving!",
-    description:
-      "Experience the convenience of personalized care in the comfort of your own home with our professional home physiotherapy services.",
-    image: "/slide1.png?height=600&width=1600",
-    alt: "Home physiotherapy session",
-  },
-  {
-    id: 2,
     badge: "EXPERT CARE",
     title: "Specialized Physiotherapy For All Your Needs",
     description:
@@ -25,12 +16,21 @@ const slides = [
     alt: "Physiotherapist with patient",
   },
   {
+    id: 2,
+    badge: "HOME VISIT",
+    title: "Movement Is Life — Let’s Keep You Moving!",
+    description:
+      "Experience the convenience of personalized care in the comfort of your own home with our professional home physiotherapy services.",
+    image: "/slide1.png?height=600&width=1600",
+    alt: "Home physiotherapy session",
+  },
+  {
     id: 3,
     badge: "REHABILITATION",
     title: "Precision Therapy for Powerful Recovery.",
     description:
       "Advanced rehabilitation techniques to help you recover from injuries, surgeries, and chronic conditions with lasting results.",
-    image: "/slide3.jpg?height=600&width=1600",
+    image: "/home.jpg?height=600&width=1600",
     alt: "Rehabilitation session",
   },
 ]

@@ -33,7 +33,7 @@ export default function Home() {
               <div className="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105">
                 <div className="h-48 bg-gray-200 relative">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
+                    src="/ortho1.jpg?height=200&width=400"
                     alt="Orthopedic Rehabilitation"
                     fill
                     className="object-cover"
@@ -55,7 +55,7 @@ export default function Home() {
               <div className="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105">
                 <div className="h-48 bg-gray-200 relative">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
+                    src="/neuro.jpg?height=200&width=400"
                     alt="Neurological Rehabilitation"
                     fill
                     className="object-cover"
@@ -77,7 +77,7 @@ export default function Home() {
               <div className="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105">
                 <div className="h-48 bg-gray-200 relative">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
+                    src="/sports.jpg?height=200&width=400"
                     alt="Sports Injury Rehabilitation"
                     fill
                     className="object-cover"
@@ -99,7 +99,7 @@ export default function Home() {
               <div className="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105">
                 <div className="h-48 bg-gray-200 relative">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
+                    src="/geriar.jpg?height=200&width=400"
                     alt="Geriatric Physiotherapy"
                     fill
                     className="object-cover"
@@ -121,7 +121,7 @@ export default function Home() {
               <div className="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105">
                 <div className="h-48 bg-gray-200 relative">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
+                    src="/pedia.jpg?height=200&width=400"
                     alt="Pediatric Physiotherapy"
                     fill
                     className="object-cover"
@@ -143,7 +143,7 @@ export default function Home() {
               <div className="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105">
                 <div className="h-48 bg-gray-200 relative">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
+                    src="/home.jpg?height=200&width=400"
                     alt="Home Physiotherapy"
                     fill
                     className="object-cover"
@@ -170,7 +170,7 @@ export default function Home() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div className="relative h-[500px]">
                 <Image
-                  src="/placeholder.svg?height=500&width=600"
+                  src="/about.jpg?height=500&width=600"
                   alt="About RehabNest Physio"
                   fill
                   className="object-cover rounded-lg shadow-xl"
